@@ -1,0 +1,23 @@
+{
+  "name": "openlayers-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackamoss2/openlayers-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackamoss2/openlayers-test/issues"
+  },
+  "homepage": "https://github.com/jackamoss2/openlayers-test#readme",
+  "dependencies": {
+    "ol": "^7.3.0"
+  }
+}
